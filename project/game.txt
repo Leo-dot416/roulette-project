@@ -1,0 +1,6 @@
+
+You currently have 1000 points.
+The ball landed on 1 (red).
+Well done! You guessed the colour so you win 68 points!
+You now have 1034 points.
+Thank you for playing!
